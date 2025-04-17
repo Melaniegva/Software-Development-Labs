@@ -21,7 +21,7 @@ This lab focuses on abstract classes, inheritance, and polymorphism by modeling 
 ## Sample Output
 Undergraduate Students: Student ID: 111, Name: Lambert, Tuition: 4000.0 per year, Student Class is: Undergraduate Student ID: 122, Name: Lembeck, Tuition: 4000.0 per year, Student Class is: Undergraduate
 
-Graduate Students: Student ID: 222, Name: Charlie, Tuition: 6000.0 per year, Student Class is: Graduate Student ID: 333, Name: Shaggy, Tuition: 6000.0 per year, Student Class is: Graduate
+Graduate Students: Student ID: 222, Name: Charlie, Tuition: 6000.0 per year, Student Class is: Graduate Student ID: 333, Name: Shaggy, Tuition: 6000.0 per year, Student Class is: Graduate 
 
 
 ## Programmer
